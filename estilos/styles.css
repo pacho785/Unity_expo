@@ -1,0 +1,74 @@
+/* Estilos del texto azul */
+/* Estilos del texto azul */
+.azul {
+    color: rgb(0, 132, 255);
+    font-weight: bold;
+  }
+  
+  /* Estilos generales */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos del encabezado */
+  header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  /* Estilos del contenido principal */
+  section {
+    margin: 20px;
+    background-image: linear-gradient(to bottom right, #fff, #91bdc0);
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid rgb(0, 132, 255);
+    box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid rgb(0, 132, 255);
+    box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
+  }
+  
+  /* Estilos para las imágenes */
+  img {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para los párrafos */
+  p {
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para la barra de herramientas */
+  .toolbar {
+    background-color: #eee;
+    padding: 10px;
+  }
+  
+  /* Estilos para las cajas de texto */
+  .text-box {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
+    margin-bottom:
+  
